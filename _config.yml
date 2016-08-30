@@ -1,19 +1,4 @@
-name: gutie43
-favicon: null
-layout_spectrum: 0.95259
 typography_spectrum: 0.08685628115199506
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#a8acc4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5961347629781812
   saturation: 0.263075593393296
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.95259
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: gutie43
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Raising the bar...
 purpose: []
